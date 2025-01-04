@@ -4,5 +4,5 @@ This repository contains a machine learning model for predicting skin cancer typ
 
 Key Features:
 Model Architecture: Utilizes a convolutional neural network (CNN) optimized for image classification tasks.
-Dataset: Trained on publicly available skin lesion datasets, such as the ISIC dataset.
-Performance: Achieves [X% accuracy] and [Y% precision/recall] on validation data.
+Dataset: Trained on melanoma skin cancer detection dataset (from kaggle).
+Performance: Achieves [93% accuracy] on validation data.
